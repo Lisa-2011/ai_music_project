@@ -1,0 +1,10 @@
+canvas{
+    background-color: white;
+    border-radius: 25px;
+    box-shadow:5px 5px 5px skyblue ;
+}
+
+.note{
+    font-size: 15px;
+    margin: 0%;
+}
